@@ -1,0 +1,16 @@
+numpy==1.26.4
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+requests
+opencv-python
+mediapipe
+dlib-bin
+imageio
+bz2file
+tqdm
+imutils
+tensorflow==2.10.1
+protobuf==3.20.3
+jiwer
