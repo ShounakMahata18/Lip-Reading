@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+imageio
+opencv-python
+mediapipe
+imutils
+tensorflow[and-cuda]
+jiwer

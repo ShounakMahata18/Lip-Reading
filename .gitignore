@@ -1,0 +1,7 @@
+data/raw/*
+data/processed/*
+notebooks/*
+
+__pycache__/
+.vscode/
+.env
